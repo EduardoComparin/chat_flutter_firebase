@@ -10,6 +10,11 @@ Certifique-se de ter o Flutter SDK instalado em sua máquina. Para mais informa�
 
 - [Firebase](https://firebase.google.com/docs/flutter/setup?hl=pt-br&platform=android): necessario efetuar os passos deste link gerando um projeto e um banco no firebase.
 
+Fazendo os passos esses arquivos serão gerados
+- google-services.json
+- firebase_options.dart
+- firebase_app_id_file.json
+
 ## Dependências
 
 O projeto utiliza as seguintes dependências:
