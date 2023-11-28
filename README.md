@@ -8,12 +8,18 @@ Projeto consiste em um chat onde possue algumas salas com alguns assusntos.
 
 Certifique-se de ter o Flutter SDK instalado em sua máquina. Para mais informações sobre como instalar o Flutter, consulte [a documentação oficial do Flutter](https://flutter.dev/docs/get-started/install).
 
-- [Firebase](https://firebase.google.com/docs/flutter/setup?hl=pt-br&platform=android): necessario efetuar os passos deste link gerando um projeto e um banco no firebase.
+- [Firebase](https://firebase.google.com/docs/flutter/setup?hl=pt-br&platform=android): Necessário efetuar os passos deste link gerando um projeto e um banco no firebase.
 
 Fazendo os passos esses arquivos serão gerados
 - google-services.json
 - firebase_options.dart
 - firebase_app_id_file.json
+
+## Publicar APK
+Necessário seguir os passos dos links abaixo:
+- [Android] https://docs.flutter.dev/deployment/android
+- [Ios] https://docs.flutter.dev/deployment/ios
+
 
 ## Dependências
 
